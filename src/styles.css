@@ -1,17 +1,18 @@
 /* You can add global styles to this file, and also import other style files */
 * {
-  background-color: #fcd4fd;
+  background-color: black;
   font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
   font-weight: bold;
   font-size: 65px;
+  color: white;
 }
 
 h2 {
   font-weight: lighter;
-
+  color : white;
   font-size: 40px;
 }
 
